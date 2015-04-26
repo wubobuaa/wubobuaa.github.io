@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title><![CDATA[WuBo's Blog]]></title>
+  <subtitle><![CDATA[冰是睡着的水]]></subtitle>
+  <link href="/atom.xml" rel="self"/>
+  <link href="http://wubobuaa.github.io/"/>
+  <updated>2015-04-25T07:52:10.000Z</updated>
+  <id>http://wubobuaa.github.io/</id>
+  
+  <author>
+    <name><![CDATA[Wu Bo]]></name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title><![CDATA[自动获取可用Hosts上Google]]></title>
+    <link href="http://wubobuaa.github.io/2015/04/25/%E8%87%AA%E5%8A%A8%E8%8E%B7%E5%8F%96%E5%8F%AF%E7%94%A8Hosts%E4%B8%8AGoogle/"/>
+    <id>http://wubobuaa.github.io/2015/04/25/自动获取可用Hosts上Google/</id>
+    <published>2015-04-25T07:27:29.000Z</published>
+    <updated>2015-04-25T07:52:10.000Z</updated>
+    <content type="html"><![CDATA[<p>分享一个自动获取可用的Hosts上Goole的工具，<a href="https://github.com/txthinking/google-hosts。" target="_blank" rel="external">https://github.com/txthinking/google-hosts。</a><br>下载后运行tools文件夹下的fuckGFW-32.exe或者fuckGFW-64.exe，会自动将可用的ip添加到hosts中。</p>
+]]></content>
+    <summary type="html">
+    <![CDATA[<p>分享一个自动获取可用的Hosts上Goole的工具，<a href="https://github.com/txthinking/google-hosts。" target="_blank" rel="external">https://github.com/txthink]]>
+    </summary>
+    
+      <category term="google" scheme="http://wubobuaa.github.io/tags/google/"/>
+    
+      <category term="hosts" scheme="http://wubobuaa.github.io/tags/hosts/"/>
+    
+      <category term="工具" scheme="http://wubobuaa.github.io/categories/%E5%B7%A5%E5%85%B7/"/>
+    
+  </entry>
+  
+  <entry>
+    <title><![CDATA[Hello World]]></title>
+    <link href="http://wubobuaa.github.io/2015/04/24/hello-world/"/>
+    <id>http://wubobuaa.github.io/2015/04/24/hello-world/</id>
+    <published>2015-04-24T14:11:42.000Z</published>
+    <updated>2015-04-24T14:11:42.000Z</updated>
+    <content type="html"><![CDATA[<p>Welcome to <a href="http://hexo.io/" target="_blank" rel="external">Hexo</a>! This is your very first post. Check <a href="http://hexo.io/docs/" target="_blank" rel="external">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="http://hexo.io/docs/troubleshooting.html" target="_blank" rel="external">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="external">GitHub</a>.</p>
+<h2 id="Quick_Start">Quick Start</h2><h3 id="Create_a_new_post">Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">"My New Post"</span></span><br></pre></td></tr></table></figure>
+<p>More info: <a href="http://hexo.io/docs/writing.html" target="_blank" rel="external">Writing</a></p>
+<h3 id="Run_server">Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure>
+<p>More info: <a href="http://hexo.io/docs/server.html" target="_blank" rel="external">Server</a></p>
+<h3 id="Generate_static_files">Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure>
+<p>More info: <a href="http://hexo.io/docs/generating.html" target="_blank" rel="external">Generating</a></p>
+<h3 id="Deploy_to_remote_sites">Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure>
+<p>More info: <a href="http://hexo.io/docs/deployment.html" target="_blank" rel="external">Deployment</a></p>
+]]></content>
+    <summary type="html">
+    <![CDATA[<p>Welcome to <a href="http://hexo.io/" target="_blank" rel="external">Hexo</a>! This is your very first post. Check <a href="http://hexo.io]]>
+    </summary>
+    
+  </entry>
+  
+</feed>
