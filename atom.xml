@@ -4,7 +4,7 @@
   <subtitle><![CDATA[冰是睡着的水]]></subtitle>
   <link href="/atom.xml" rel="self"/>
   <link href="http://wubobuaa.github.io/"/>
-  <updated>2015-04-25T07:52:10.000Z</updated>
+  <updated>2015-06-15T14:50:26.000Z</updated>
   <id>http://wubobuaa.github.io/</id>
   
   <author>
@@ -13,6 +13,24 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title><![CDATA[sh.exe: hexo: command not found]]></title>
+    <link href="http://wubobuaa.github.io/2015/06/15/sh-exe-hexo-command-not-found/"/>
+    <id>http://wubobuaa.github.io/2015/06/15/sh-exe-hexo-command-not-found/</id>
+    <published>2015-06-15T14:45:19.000Z</published>
+    <updated>2015-06-15T14:50:26.000Z</updated>
+    <content type="html"><![CDATA[<p>今天在git命令行工具中使用hexo的时候，总是提示我找不到hexo命令，如：<br>    sh.exe”: hexo: command not found<br>但是我运行 npm install -g hexo-cli安装成功，且没有错误提示。<br>想起之前系统新建了一个用户，可能windows下的环境变量不对，在windows下的path中加入如下路径，问题解决：<br>    C:\Users\Username\AppData\Roaming\npm\</p>
+]]></content>
+    <summary type="html">
+    <![CDATA[<p>今天在git命令行工具中使用hexo的时候，总是提示我找不到hexo命令，如：<br>    sh.exe”: hexo: command not found<br>但是我运行 npm install -g hexo-cli安装成功，且没有错误提示。<br>想起之前系统新建]]>
+    </summary>
+    
+      <category term="hexo" scheme="http://wubobuaa.github.io/tags/hexo/"/>
+    
+      <category term="技术文章" scheme="http://wubobuaa.github.io/categories/%E6%8A%80%E6%9C%AF%E6%96%87%E7%AB%A0/"/>
+    
+  </entry>
   
   <entry>
     <title><![CDATA[自动获取可用Hosts上Google]]></title>
@@ -31,28 +49,6 @@
       <category term="hosts" scheme="http://wubobuaa.github.io/tags/hosts/"/>
     
       <category term="工具" scheme="http://wubobuaa.github.io/categories/%E5%B7%A5%E5%85%B7/"/>
-    
-  </entry>
-  
-  <entry>
-    <title><![CDATA[Hello World]]></title>
-    <link href="http://wubobuaa.github.io/2015/04/24/hello-world/"/>
-    <id>http://wubobuaa.github.io/2015/04/24/hello-world/</id>
-    <published>2015-04-24T14:11:42.000Z</published>
-    <updated>2015-04-24T14:11:42.000Z</updated>
-    <content type="html"><![CDATA[<p>Welcome to <a href="http://hexo.io/" target="_blank" rel="external">Hexo</a>! This is your very first post. Check <a href="http://hexo.io/docs/" target="_blank" rel="external">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="http://hexo.io/docs/troubleshooting.html" target="_blank" rel="external">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="external">GitHub</a>.</p>
-<h2 id="Quick_Start">Quick Start</h2><h3 id="Create_a_new_post">Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">"My New Post"</span></span><br></pre></td></tr></table></figure>
-<p>More info: <a href="http://hexo.io/docs/writing.html" target="_blank" rel="external">Writing</a></p>
-<h3 id="Run_server">Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure>
-<p>More info: <a href="http://hexo.io/docs/server.html" target="_blank" rel="external">Server</a></p>
-<h3 id="Generate_static_files">Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure>
-<p>More info: <a href="http://hexo.io/docs/generating.html" target="_blank" rel="external">Generating</a></p>
-<h3 id="Deploy_to_remote_sites">Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure>
-<p>More info: <a href="http://hexo.io/docs/deployment.html" target="_blank" rel="external">Deployment</a></p>
-]]></content>
-    <summary type="html">
-    <![CDATA[<p>Welcome to <a href="http://hexo.io/" target="_blank" rel="external">Hexo</a>! This is your very first post. Check <a href="http://hexo.io]]>
-    </summary>
     
   </entry>
   
