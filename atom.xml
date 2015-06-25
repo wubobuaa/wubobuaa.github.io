@@ -4,7 +4,7 @@
   <subtitle><![CDATA[冰是睡着的水]]></subtitle>
   <link href="/atom.xml" rel="self"/>
   <link href="http://wubobuaa.github.io/"/>
-  <updated>2015-06-15T14:50:26.000Z</updated>
+  <updated>2015-06-16T12:52:19.000Z</updated>
   <id>http://wubobuaa.github.io/</id>
   
   <author>
@@ -19,11 +19,11 @@
     <link href="http://wubobuaa.github.io/2015/06/15/sh-exe-hexo-command-not-found/"/>
     <id>http://wubobuaa.github.io/2015/06/15/sh-exe-hexo-command-not-found/</id>
     <published>2015-06-15T14:45:19.000Z</published>
-    <updated>2015-06-15T14:50:26.000Z</updated>
-    <content type="html"><![CDATA[<p>今天在git命令行工具中使用hexo的时候，总是提示我找不到hexo命令，如：<br>    sh.exe”: hexo: command not found<br>但是我运行 npm install -g hexo-cli安装成功，且没有错误提示。<br>想起之前系统新建了一个用户，可能windows下的环境变量不对，在windows下的path中加入如下路径，问题解决：<br>    C:\Users\Username\AppData\Roaming\npm\</p>
+    <updated>2015-06-16T12:52:19.000Z</updated>
+    <content type="html"><![CDATA[<p>今天在git命令行工具中使用hexo的时候，总是提示我找不到hexo命令，如：<br>    ‘sh.exe”: hexo: command not found’<br>但是我运行 npm install -g hexo-cli安装成功，且没有错误提示。<br>想起之前系统新建了一个用户，可能windows下的环境变量不对，在windows下的path中加入如下路径，问题解决：<br>    C:\Users\Username\AppData\Roaming\npm\</p>
 ]]></content>
     <summary type="html">
-    <![CDATA[<p>今天在git命令行工具中使用hexo的时候，总是提示我找不到hexo命令，如：<br>    sh.exe”: hexo: command not found<br>但是我运行 npm install -g hexo-cli安装成功，且没有错误提示。<br>想起之前系统新建]]>
+    <![CDATA[<p>今天在git命令行工具中使用hexo的时候，总是提示我找不到hexo命令，如：<br>    ‘sh.exe”: hexo: command not found’<br>但是我运行 npm install -g hexo-cli安装成功，且没有错误提示。<br>想起之前系统]]>
     </summary>
     
       <category term="hexo" scheme="http://wubobuaa.github.io/tags/hexo/"/>
