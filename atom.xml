@@ -4,7 +4,7 @@
   <subtitle><![CDATA[冰是睡着的水]]></subtitle>
   <link href="/atom.xml" rel="self"/>
   <link href="http://wubobuaa.github.io/"/>
-  <updated>2015-06-25T15:05:34.000Z</updated>
+  <updated>2015-06-26T14:59:45.000Z</updated>
   <id>http://wubobuaa.github.io/</id>
   
   <author>
@@ -13,6 +13,34 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title><![CDATA[分享几个日常用的chrome插件]]></title>
+    <link href="http://wubobuaa.github.io/2015/06/26/chrome-plugins/"/>
+    <id>http://wubobuaa.github.io/2015/06/26/chrome-plugins/</id>
+    <published>2015-06-26T14:17:15.000Z</published>
+    <updated>2015-06-26T14:59:45.000Z</updated>
+    <content type="html"><![CDATA[<p>1.<a href="https://chrome.google.com/webstore/detail/gighmmpiobklfepjocnamgkkbiglidom?utm_source=chrome-app-launcher-info-dialog" title="AdBlock去广告插件" target="_blank" rel="external">AdBlock</a></p>
+<p>AdBlock是chrome浏览器中安装量高达4000万,几乎能够屏蔽整个互联网上的广告的一款非常著名的广告屏蔽插件。</p>
+<p>2.<a href="https://chrome.google.com/webstore/detail/aabcgdmkeabbnleenpncegpcngjpnjkc?utm_source=chrome-app-launcher-info-dialog" title="定时刷新" target="_blank" rel="external">Easy Auto Refresh</a></p>
+<p><img src="http://ww1.sinaimg.cn/mw690/6941baebjw1ethvj27amvj207q042aac.jpg" alt=""></p>
+<p>Easy Auto Refresh可以简单的设置网页的自动刷新时间。<br><a id="more"></a><br>3.<a href="https://chrome.google.com/webstore/detail/chklaanhfefbnpoihckbnefhakgolnmc?utm_source=chrome-app-launcher-info-dialog" title="json格式化" target="_blank" rel="external">JSONView</a></p>
+<p>JSONView使JSON格式的数据有类似XML的折叠展开模式，方便检查局部数据，使JSON数据整齐格式化。</p>
+<p>4.<a href="https://chrome.google.com/webstore/detail/hdokiejnpimakedhajhdlcegeplioahd?utm_source=chrome-app-launcher-info-dialog" target="_blank" rel="external">LastPass</a></p>
+<p>5.<a href="https://chrome.google.com/webstore/detail/chphlpgkkbolifaimnlloiipkdnihall?utm_source=chrome-app-launcher-info-dialog" target="_blank" rel="external">OneTab</a></p>
+]]></content>
+    <summary type="html">
+    <![CDATA[<p>1.<a href="https://chrome.google.com/webstore/detail/gighmmpiobklfepjocnamgkkbiglidom?utm_source=chrome-app-launcher-info-dialog" title="AdBlock去广告插件">AdBlock</a></p>
+<p>AdBlock是chrome浏览器中安装量高达4000万,几乎能够屏蔽整个互联网上的广告的一款非常著名的广告屏蔽插件。</p>
+<p>2.<a href="https://chrome.google.com/webstore/detail/aabcgdmkeabbnleenpncegpcngjpnjkc?utm_source=chrome-app-launcher-info-dialog" title="定时刷新">Easy Auto Refresh</a></p>
+<p><img src="http://ww1.sinaimg.cn/mw690/6941baebjw1ethvj27amvj207q042aac.jpg" alt=""></p>
+<p>Easy Auto Refresh可以简单的设置网页的自动刷新时间。<br>]]>
+    
+    </summary>
+    
+      <category term="chrome" scheme="http://wubobuaa.github.io/tags/chrome/"/>
+    
+  </entry>
   
   <entry>
     <title><![CDATA[sh.exe: hexo: command not found]]></title>
@@ -31,26 +59,6 @@
       <category term="hexo" scheme="http://wubobuaa.github.io/tags/hexo/"/>
     
       <category term="技术文章" scheme="http://wubobuaa.github.io/categories/%E6%8A%80%E6%9C%AF%E6%96%87%E7%AB%A0/"/>
-    
-  </entry>
-  
-  <entry>
-    <title><![CDATA[自动获取可用Hosts上Google]]></title>
-    <link href="http://wubobuaa.github.io/2015/04/25/%E8%87%AA%E5%8A%A8%E8%8E%B7%E5%8F%96%E5%8F%AF%E7%94%A8Hosts%E4%B8%8AGoogle/"/>
-    <id>http://wubobuaa.github.io/2015/04/25/自动获取可用Hosts上Google/</id>
-    <published>2015-04-25T07:27:29.000Z</published>
-    <updated>2015-06-25T14:54:14.000Z</updated>
-    <content type="html"><![CDATA[<p>分享一个自动获取可用的Hosts上Goole的工具，<a href="https://github.com/txthinking/google-hosts" target="_blank" rel="external">https://github.com/txthinking/google-hosts</a> 。<br>下载后运行tools文件夹下的fuckGFW-32.exe或者fuckGFW-64.exe，会自动将可用的ip添加到hosts中。</p>
-]]></content>
-    <summary type="html">
-    <![CDATA[<p>分享一个自动获取可用的Hosts上Goole的工具，<a href="https://github.com/txthinking/google-hosts" target="_blank" rel="external">https://github.com/txthinki]]>
-    </summary>
-    
-      <category term="google" scheme="http://wubobuaa.github.io/tags/google/"/>
-    
-      <category term="hosts" scheme="http://wubobuaa.github.io/tags/hosts/"/>
-    
-      <category term="工具" scheme="http://wubobuaa.github.io/categories/%E5%B7%A5%E5%85%B7/"/>
     
   </entry>
   
