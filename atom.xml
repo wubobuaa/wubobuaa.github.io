@@ -4,7 +4,7 @@
   <subtitle><![CDATA[冰是睡着的水]]></subtitle>
   <link href="/atom.xml" rel="self"/>
   <link href="http://wubobuaa.github.io/"/>
-  <updated>2015-06-26T14:59:45.000Z</updated>
+  <updated>2015-11-12T09:00:25.000Z</updated>
   <id>http://wubobuaa.github.io/</id>
   
   <author>
@@ -19,22 +19,37 @@
     <link href="http://wubobuaa.github.io/2015/06/26/chrome-plugins/"/>
     <id>http://wubobuaa.github.io/2015/06/26/chrome-plugins/</id>
     <published>2015-06-26T14:17:15.000Z</published>
-    <updated>2015-06-26T14:59:45.000Z</updated>
-    <content type="html"><![CDATA[<p>1.<a href="https://chrome.google.com/webstore/detail/gighmmpiobklfepjocnamgkkbiglidom?utm_source=chrome-app-launcher-info-dialog" title="AdBlock去广告插件" target="_blank" rel="external">AdBlock</a></p>
-<p>AdBlock是chrome浏览器中安装量高达4000万,几乎能够屏蔽整个互联网上的广告的一款非常著名的广告屏蔽插件。</p>
-<p>2.<a href="https://chrome.google.com/webstore/detail/aabcgdmkeabbnleenpncegpcngjpnjkc?utm_source=chrome-app-launcher-info-dialog" title="定时刷新" target="_blank" rel="external">Easy Auto Refresh</a></p>
-<p><img src="http://ww1.sinaimg.cn/mw690/6941baebjw1ethvj27amvj207q042aac.jpg" alt=""></p>
-<p>Easy Auto Refresh可以简单的设置网页的自动刷新时间。<br><a id="more"></a><br>3.<a href="https://chrome.google.com/webstore/detail/chklaanhfefbnpoihckbnefhakgolnmc?utm_source=chrome-app-launcher-info-dialog" title="json格式化" target="_blank" rel="external">JSONView</a></p>
-<p>JSONView使JSON格式的数据有类似XML的折叠展开模式，方便检查局部数据，使JSON数据整齐格式化。</p>
-<p>4.<a href="https://chrome.google.com/webstore/detail/hdokiejnpimakedhajhdlcegeplioahd?utm_source=chrome-app-launcher-info-dialog" target="_blank" rel="external">LastPass</a></p>
-<p>5.<a href="https://chrome.google.com/webstore/detail/chphlpgkkbolifaimnlloiipkdnihall?utm_source=chrome-app-launcher-info-dialog" target="_blank" rel="external">OneTab</a></p>
+    <updated>2015-11-12T09:00:25.000Z</updated>
+    <content type="html"><![CDATA[<ol>
+<li><a href="https://chrome.google.com/webstore/detail/gighmmpiobklfepjocnamgkkbiglidom?utm_source=chrome-app-launcher-info-dialog" title="AdBlock去广告插件" target="_blank" rel="external">AdBlock</a><br>AdBlock是chrome浏览器中安装量高达4000万,几乎能够屏蔽整个互联网上的广告的一款非常著名的广告屏蔽插件。</li>
+<li><a href="https://chrome.google.com/webstore/detail/all-downloader-profession/dcpkncimndkdodcgcogfdddimoglkpkp?utm_source=chrome-app-launcher-info-dialog" target="_blank" rel="external">All Downloader Professional</a><br><img src="http://ww2.sinaimg.cn/mw690/6941baebgw1exy7ya5s2gj20k00c342g.jpg" alt=""></li>
+<li><a href="https://chrome.google.com/webstore/detail/bootstrap-twitter-offline/gihkgljdimgfffabkemicpaeljmoobil?utm_source=chrome-app-launcher-info-dialog" target="_blank" rel="external">Bootstrap Twitter Offline Docs</a><br>Bootstrap离线文档<br><img src="https://lh3.googleusercontent.com/ebx8FKp-DdVGMTfTsxKoKzAi7E0PMWVxfHUTr_atn5T70tzNxt8xOzmpjxKtIhxAnZ0nzJxw=s640-h400-e365-rw" alt=""></li>
+<li><a href="https://chrome.google.com/webstore/detail/aabcgdmkeabbnleenpncegpcngjpnjkc?utm_source=chrome-app-launcher-info-dialog" title="定时刷新" target="_blank" rel="external">Easy Auto Refresh</a><br><img src="http://ww1.sinaimg.cn/mw690/6941baebjw1ethvj27amvj207q042aac.jpg" alt=""><br>Easy Auto Refresh可以简单的设置网页的自动刷新时间。<a id="more"></a></li>
+<li><a href="https://chrome.google.com/webstore/detail/feedly/hipbfijinpcgfogaopmgehiegacbhmob?utm_source=chrome-app-launcher-info-dialog" target="_blank" rel="external">feedly</a><br>RSS订阅<br><img src="https://lh5.googleusercontent.com/0p05ULpn2jQjeho0tyh9YlL6tTNfkWRBF_ZCKc8k0gVazsoyPKkqNCEsncYAPZUaU1KOju7Ap-c=s640-h400-e365-rw" alt=""></li>
+<li><a href="https://chrome.google.com/webstore/detail/image-downloader/cnpniohnfphhjihaiiggeabnkjhpaldj?utm_source=chrome-app-launcher-info-dialog" target="_blank" rel="external">Image Downloader</a><br>批量下载所有的图片。您也可以通过宽度、高度、URL过滤网页图片。<br><img src="https://lh6.googleusercontent.com/zonAUYRq0164wHlEMjd8tZEhriCOBg1104qnQ26OSRXegbdY8vFlg2Oe_xEevmGvkGU59RaaGw=s640-h400-e365-rw" alt=""></li>
+<li><a href="https://chrome.google.com/webstore/detail/infinity-new-tab/dbfmnekepjoapopniengjbcpnbljalfg?utm_source=chrome-app-launcher-info-dialog" target="_blank" rel="external">Infinity新标签页</a><br>新标签页应用，重绘了几百个图标，支持自定义搜索，集成天气，带有备忘与 Todo。<br><img src="http://ww3.sinaimg.cn/mw690/6941baebjw1exya4hhfirj21a70pnwsl.jpg" alt=""></li>
+<li><a href="https://chrome.google.com/webstore/detail/javascript-errors-notifie/jafmfknfnkoekkdocjiaipcnmkklaajd?utm_source=chrome-app-launcher-info-dialog" target="_blank" rel="external">JavaScript Errors Notifier</a><br>在Chrome地址栏中以图标形式提示JavaScript错误<br><img src="http://www.chromein.com/public/crx/jafmfknfnkoekkdocjiaipcnmkklaajd/cover_1.png" alt=""></li>
+<li><a href="https://chrome.google.com/webstore/detail/chklaanhfefbnpoihckbnefhakgolnmc?utm_source=chrome-app-launcher-info-dialog" title="json格式化" target="_blank" rel="external">JSONView</a><br>JSONView使JSON格式的数据有类似XML的折叠展开模式，方便检查局部数据，使JSON数据整齐格式化。<br><img src="http://static.codeceo.com/images/2015/03/14-json-viewer-chrome-extension.png" alt=""></li>
+<li><a href="https://chrome.google.com/webstore/detail/hdokiejnpimakedhajhdlcegeplioahd?utm_source=chrome-app-launcher-info-dialog" target="_blank" rel="external">LastPass</a><br>在线密码管理器，支持多种平台之间的数据同步。</li>
+<li><a href="https://chrome.google.com/webstore/detail/chphlpgkkbolifaimnlloiipkdnihall?utm_source=chrome-app-launcher-info-dialog" target="_blank" rel="external">OneTab</a><br>把所有标签页收缩到一个窗口来减少内存占用<br><img src="http://chromecj.com/Content/kindeditor/attached/image/20141115/20141115024338_0468.jpg" alt=""></li>
+<li><a href="https://chrome.google.com/webstore/detail/page-ruler/jlpkojjdgbllmedoapgfodplfhcbnbpn?utm_source=chrome-app-launcher-info-dialog" target="_blank" rel="external">Page Ruler</a><br>精确地测量出当前页面某个元素或者是整个页面的大小尺寸。<br><img src="https://lh6.googleusercontent.com/_FfqCKd2rIXKCFndezU2KIkuHcmd5UPRUia99zBWoq8Y1kKpsmx7SlwruQO8GCHQipruKWdi=s640-h400-e365-rw" alt=""></li>
+<li><a href="https://chrome.google.com/webstore/detail/padekgcemlokbadohgkifijomclgjgif?utm_source=chrome-app-launcher-info-dialog" target="_blank" rel="external">Proxy SwitchyOmega</a><br>配合GoAgent翻墙使用</li>
+<li><a href="https://chrome.google.com/webstore/detail/resolution-test/idhfcdbheobinplaamokffboaccidbal?utm_source=chrome-app-launcher-info-dialog" target="_blank" rel="external">Resolution Test</a><br>测试网页在不同分辨率下的显示效果，可以查看当前测试分辨率。<br><img src="http://hi.csdn.net/attachment/201109/28/0_131717722654qw.gif" alt=""></li>
+<li><a href="https://chrome.google.com/webstore/detail/resolution-test/idhfcdbheobinplaamokffboaccidbal?utm_source=chrome-app-launcher-info-dialog" target="_blank" rel="external">Tabs Outliner</a><br>浏览器旁边新建一个窗口，把所有的标签页按照域名归类放好。<br><img src="http://ww3.sinaimg.cn/mw690/6941baebjw1exyaebuytoj20aj09r0v4.jpg" alt=""></li>
+<li><a href="https://chrome.google.com/webstore/detail/pbmmieigblcbldgdokdjpioljjninaim?utm_source=chrome-app-launcher-info-dialog" target="_blank" rel="external">Visual Event</a><br>快速查看 DOM 上绑定的 JS 事件<br><img src="https://lh4.googleusercontent.com/0yd9DSHx7aQJmetxNa3I6iXOpGbB-8N9cbfzy5xBZmTr517RH3BGbZfGNF7fFWgIHeM8Q4-vhsI=s640-h400-e365-rw" alt=""></li>
+<li><a href="https://chrome.google.com/webstore/detail/gppongmhjkpfnbhagpmjfkannfbllamg?utm_source=chrome-app-launcher-info-dialog" target="_blank" rel="external">Wappalyzer</a><br>查看网站使用了哪些框架和技术<br><img src="http://www.wangxii.com/UploadImage/edit/images/6.png" alt=""></li>
+<li><a href="https://chrome.google.com/webstore/detail/bfbameneiokkgbdmiekhjnmfkcnldhhm?utm_source=chrome-app-launcher-info-dialog" target="_blank" rel="external">Web Developer</a><br><img src="在javascript控制台的基础进行了扩展，方便html和css的调试" alt=""></li>
+<li><a href="https://chrome.google.com/webstore/detail/pkgccpejnmalmdinmhkkfafefagiiiad?utm_source=chrome-app-launcher-info-dialog" target="_blank" rel="external">WEB前端助手(FeHelper)</a><br>FE助手功能：前端编码规范检测、页面性能检测、栅格检测、时间戳转换工具、正则表达式工具、字符串编解码、代码美化工具、JSON格式化、二维码生成、Javascript执行效率检查等。<br><img src="http://ww2.sinaimg.cn/mw690/6941baebjw1exyanrk0n6j204i09gdgc.jpg" alt=""></li>
+<li><a href="https://chrome.google.com/webstore/detail/jabopobgcpjmedljpbcaablpmlmfcogm?utm_source=chrome-app-launcher-info-dialog" target="_blank" rel="external">WhatFont</a><br>查看网页字体</li>
+<li><a href="https://chrome.google.com/webstore/detail/capture-webpage-screensho/mcbpblocgmgfnpjjppndjkmgjaogfceg?utm_source=chrome-app-launcher-info-dialog" target="_blank" rel="external">网页截图 - FireShot</a><br>网页截图插件</li>
+</ol>
 ]]></content>
     <summary type="html">
-    <![CDATA[<p>1.<a href="https://chrome.google.com/webstore/detail/gighmmpiobklfepjocnamgkkbiglidom?utm_source=chrome-app-launcher-info-dialog" title="AdBlock去广告插件">AdBlock</a></p>
-<p>AdBlock是chrome浏览器中安装量高达4000万,几乎能够屏蔽整个互联网上的广告的一款非常著名的广告屏蔽插件。</p>
-<p>2.<a href="https://chrome.google.com/webstore/detail/aabcgdmkeabbnleenpncegpcngjpnjkc?utm_source=chrome-app-launcher-info-dialog" title="定时刷新">Easy Auto Refresh</a></p>
-<p><img src="http://ww1.sinaimg.cn/mw690/6941baebjw1ethvj27amvj207q042aac.jpg" alt=""></p>
-<p>Easy Auto Refresh可以简单的设置网页的自动刷新时间。<br>]]>
+    <![CDATA[<ol>
+<li><a href="https://chrome.google.com/webstore/detail/gighmmpiobklfepjocnamgkkbiglidom?utm_source=chrome-app-launcher-info-dialog" title="AdBlock去广告插件">AdBlock</a><br>AdBlock是chrome浏览器中安装量高达4000万,几乎能够屏蔽整个互联网上的广告的一款非常著名的广告屏蔽插件。</li>
+<li><a href="https://chrome.google.com/webstore/detail/all-downloader-profession/dcpkncimndkdodcgcogfdddimoglkpkp?utm_source=chrome-app-launcher-info-dialog">All Downloader Professional</a><br><img src="http://ww2.sinaimg.cn/mw690/6941baebgw1exy7ya5s2gj20k00c342g.jpg" alt=""></li>
+<li><a href="https://chrome.google.com/webstore/detail/bootstrap-twitter-offline/gihkgljdimgfffabkemicpaeljmoobil?utm_source=chrome-app-launcher-info-dialog">Bootstrap Twitter Offline Docs</a><br>Bootstrap离线文档<br><img src="https://lh3.googleusercontent.com/ebx8FKp-DdVGMTfTsxKoKzAi7E0PMWVxfHUTr_atn5T70tzNxt8xOzmpjxKtIhxAnZ0nzJxw=s640-h400-e365-rw" alt=""></li>
+<li><a href="https://chrome.google.com/webstore/detail/aabcgdmkeabbnleenpncegpcngjpnjkc?utm_source=chrome-app-launcher-info-dialog" title="定时刷新">Easy Auto Refresh</a><br><img src="http://ww1.sinaimg.cn/mw690/6941baebjw1ethvj27amvj207q042aac.jpg" alt=""><br>Easy Auto Refresh可以简单的设置网页的自动刷新时间。]]>
     
     </summary>
     
